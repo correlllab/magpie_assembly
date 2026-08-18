@@ -22,6 +22,7 @@
 |16|3M Nuts and Bolts|32|$12.49|
 |17|2M Nuts and Bolts|8|$9.99|
 |18|5M bearings|8|$9.99|
+| | |Total|$458.63|
 
 ##New
 
@@ -34,11 +35,13 @@
 |5|Finger (PLA)|2|$1.51|
 |6|Camera Protector (PLA)|1|$1.51|
 |7|OpenRB-150 board|1|$24.90|
-|8|Intel :register: RealSense :tm: D405|1|$272.00|
+|8|Intel :registered: RealSense :tm: D405|1|$272.00|
 |9|AX-12A Servo Motor|2|$99.80|
 |10|3M 6mm standoff|4|$9.99|
 |11|3M 8mm standoff|4|$9.99|
 |12|Electrical Wire|2|$0.45|
-|13|3M Nuts and Bolts|32|$12.49|
-|14|2M Nuts and Bolts|8|$9.99|
+|13|3M Nuts and Bolts|16|$12.49|
+|14|2M Nuts and Bolts|20|$9.99|
 |15|5M bearings|6|$9.99|
+|16|Grip Tape|1|$9.99|
+| | |Total|$__.__|
