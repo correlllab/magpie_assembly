@@ -1,5 +1,7 @@
 # Magpie Gripper Bill of Materials (BOM)
 
+Note: All parts printed out of PLA have 20% gyroid infill with 2mm borders
+
 ## Version 1
 
 | ID | Item | Quantity | Cost |
