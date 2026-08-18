@@ -1,8 +1,8 @@
 # Magpie Gripper Bill of Materials (BOM)
 
-Note: All parts printed out of PLA have 20% gyroid infill with 2mm borders
-
 ## Version 1
+
+Note: All parts printed out of PLA have 100% infill with 2mm borders and organic supports.
 
 | ID | Item | Quantity | Cost |
 |---|---|---|---|
@@ -28,14 +28,16 @@ Note: All parts printed out of PLA have 20% gyroid infill with 2mm borders
 
 ## Version 2 (New)
 
+Note: All parts printed out of PLA have 30% gyroid infill with 2mm borders and organic supports
+
 | ID | Item | Quantity | Cost |
 |---|---|---|---|
-|1|Top Base (PLA)|1|$1.51|
-|2|Bottom Base (PLA)|1|$1.51|
-|3|Servo Crank (PLA)|2|$1.51|
-|4|Servo Rocker (PLA)|2|$1.51|
-|5|Finger (PLA)|2|$1.51|
-|6|Camera Protector (PLA)|1|$1.51|
+|1|Top Base (PLA)|1|$0.49|
+|2|Bottom Base (PLA)|1|$0.49|
+|3|Servo Crank (PLA)|2|$0.13|
+|4|Servo Rocker (PLA)|2|$0.09|
+|5|Finger (PLA)|2|$0.55|
+|6|Camera Protector (PLA)|1|$0.18|
 |7|OpenRB-150 board|1|$24.90|
 |8|Intel :registered: RealSense :tm: D405|1|$272.00|
 |9|AX-12A Servo Motor|2|$99.80|
