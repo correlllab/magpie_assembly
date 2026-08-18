@@ -22,7 +22,7 @@
 |16|3M Nuts and Bolts|32|$12.49|
 |17|2M Nuts and Bolts|8|$9.99|
 |18|5M bearings|8|$9.99|
-| | |Total|$458.63|
+| | |Total|$468.64|
 
 ##New
 
