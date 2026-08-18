@@ -1,6 +1,6 @@
-#Bill of Materials
+# Magpie Gripper Bill of Materials (BOM)
 
-##Old
+## Old
 
 | ID | Item | Quantity | Cost |
 |---|---|---|---|
@@ -24,7 +24,7 @@
 |18|5M bearings|8|$9.99|
 | | |Total|$468.64|
 
-##New
+## New
 
 | ID | Item | Quantity | Cost |
 |---|---|---|---|
