@@ -47,5 +47,5 @@ Note: All parts printed out of PLA have 30% gyroid infill with 2mm borders and o
 |13|3M Nuts and Bolts|16|$12.49|
 |14|2M Nuts and Bolts|20|$9.99|
 |15|5M bearings|6|$9.99|
-|16|Grip Tape|1|$9.99|
-| | |Total|$__.__|
+|16|Grip Tape|1|$12.59|
+| | |Total|$451.63|
