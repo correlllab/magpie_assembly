@@ -4,7 +4,7 @@ Note: All parts printed out of PLA are under the assumption that filament costs 
 
 ## Version 1
 
-Note: All parts printed out of PLA have 100% infill with 2mm borders and organic supports.
+Note: All parts printed out of PLA have 15% crosshatch infill with 2mm borders and organic supports.
 
 | ID | Item | Quantity | Cost (Approx.)
 |---|---|---|---|
