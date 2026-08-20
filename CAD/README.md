@@ -7,6 +7,6 @@ The original parametric modeling for this project was done in Onshape. To ensure
 File Format:'.stl': 
 
 Printing Guidelines:
-Print using PLA with 30% gyroid infill
+Print using PLA with 30% gyroid infill or 100% infill
 
 Original CAD files are located in this [Onshape](https://google.com) (unlinked) folder
