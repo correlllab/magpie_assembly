@@ -9,4 +9,4 @@ File Format:'.stl':
 Printing Guidelines:
 Print using PLA with 30% gyroid infill or 100% infill
 
-Original CAD files are located in this [Onshape](https://google.com) (unlinked) folder
+Original CAD files are contained within this folder. The CAD assembly is located in this [Onshape](https://cad.onshape.com/documents/ebf3bee4cb16cf8695a8fb0b/w/7cb77bbbbc0cfa118c533903/e/7df3b127506ca0a4fec0e6dc?renderMode=0&uiState=6a8f814e30e68e6c32fd1782) document
