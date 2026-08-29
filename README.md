@@ -13,6 +13,7 @@ two smart servos and about $455 of off-the-shelf parts.
 [![Bill of materials](https://img.shields.io/badge/docs-bill%20of%20materials-0a7d33.svg)](Documentation/BOM.md)
 [![Software](https://img.shields.io/badge/software-correlllab%2FMAGPIE-24292f.svg)](https://github.com/correlllab/MAGPIE)
 [![Paper](https://img.shields.io/badge/arXiv-2402.06018-b31b1b.svg)](https://arxiv.org/abs/2402.06018)
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
 
 </div>
 
@@ -117,6 +118,15 @@ Documentation/
   paper/                  the paper this hand comes from
 tools/                    regenerate the renders and the figures
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE). The models, the bill of materials and the guide are
+yours to print, modify and sell; the software that drives the gripper,
+[correlllab/MAGPIE](https://github.com/correlllab/MAGPIE), is MIT too.
+
+Built in the [Correll Lab](https://www.colorado.edu/lab/correll/) at the
+University of Colorado Boulder.
 
 ## Citation
 
