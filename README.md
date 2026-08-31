@@ -44,7 +44,7 @@ the paper. [What changed, and why →](Documentation/MagpieDesignChanges.md)
 | **Sensing** | Intel RealSense D405 in the palm |
 | **Mass** | ≈ 390 g ([weighed](Documentation/assembly_photos/IMG_5022.jpg)) |
 | **Parts cost** | ≈ $455, of which the camera is $272 |
-| **Printed** | 9 pieces, ≈ 140 cm³, PLA at 30 % gyroid infill |
+| **Printed** | 9 pieces, ≈ 150 cm³, PLA at 30 % gyroid infill |
 | **CAD** | Onshape, [live document](https://cad.onshape.com/documents/ebf3bee4cb16cf8695a8fb0b/w/7cb77bbbbc0cfa118c533903/e/7df3b127506ca0a4fec0e6dc?renderMode=0&uiState=6a8f814e30e68e6c32fd1782) · STLs in [`CAD/`](CAD) |
 
 ## Build one
@@ -54,24 +54,22 @@ borders and organic supports. The rocker and the crank are the parts that break,
 so give them at least 50 % infill.
 
 <div align="center">
-<img src="Documentation/renders/print-set.png" alt="The six printed parts of the V2 gripper, rendered at a common scale" width="900">
+<img src="Documentation/renders/print-set.png" alt="The seven printed parts of the V2 gripper, rendered at a common scale" width="900">
 </div>
 
 | | Part | Qty | Size | File |
 | --- | --- | ---: | --- | --- |
-| <img src="Documentation/renders/base-top.png" height="62"> | Base plate | 2 | 133 × 83 × 13 mm | [`Base Top.stl`](CAD/Base%20Top.stl), [`Base Bottom.stl`](CAD/Base%20Bottom.stl) |
+| <img src="Documentation/renders/top-base.png" height="62"> | Top base | 1 | 133 × 83 × 15 mm | [`Top Base.stl`](CAD/Top%20Base.stl) |
+| <img src="Documentation/renders/bottom-base.png" height="62"> | Bottom base | 1 | 133 × 83 × 13 mm | [`Bottom Base.stl`](CAD/Bottom%20Base.stl) |
 | <img src="Documentation/renders/crank.png" height="62"> | Servo crank | 2 | 64 × 25 × 8 mm | [`Crank.stl`](CAD/Crank.stl) |
 | <img src="Documentation/renders/rocker.png" height="62"> | Servo rocker | 2 | 59 × 14 × 8 mm | [`Rocker.stl`](CAD/Rocker.stl) |
 | <img src="Documentation/renders/finger-v4-covered.png" height="62"> | Finger | 2 | 87 × 71 × 18 mm | [`Finger V4 - covered.stl`](CAD/Finger%20V4%20-%20covered.stl) |
 | <img src="Documentation/renders/camera-cover.png" height="62"> | Camera protector | 1 | 54 × 54 × 7 mm | [`Camera Cover.stl`](CAD/Camera%20Cover.stl) |
 | <img src="Documentation/renders/wire-cover.png" height="62"> | Wire cover | 1 | 90 × 40 × 14 mm | [`Wire Cover.stl`](CAD/Wire%20Cover.stl) |
 
-> [!NOTE]
-> `Base Top.stl` and `Base Bottom.stl` are currently **the same file, byte for
-> byte** — it is the plate carrying the printed OpenRB-150 standoffs. If version 2
-> really does use one plate twice, the BOM (which prices them separately) and the
-> assembly guide (which says the plates are different sizes) should say so;
-> otherwise the second export is missing.
+The two plates are not interchangeable: the top is 15 mm thick and plain, the
+bottom is 13 mm and carries the four printed standoffs the OpenRB-150 sits on —
+which is why it is drawn from its reverse face above.
 
 **2 · Buy.** [The bill of materials](Documentation/BOM.md) lists both versions.
 For V2: two AX-12A servos, an OpenRB-150, a RealSense D405, six 5 mm bearings,

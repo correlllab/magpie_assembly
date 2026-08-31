@@ -34,8 +34,8 @@ Note: All parts printed out of PLA have 30% gyroid infill with 2mm borders and o
 
 | ID | Item | Quantity | Cost (Approx.) | 
 |---|---|---|---|
-|1|Top Base (PLA)|1|$1.01|
-|2|Bottom Base (PLA)|1|$1.20|
+|1|Top Base (PLA)|1|$1.49|
+|2|Bottom Base (PLA)|1|$1.08|
 |3|Servo Crank (PLA)|2|$0.52|
 |4|Servo Rocker (PLA)|2|$0.38|
 |5|Finger (PLA)|2|$2.20|
@@ -49,4 +49,4 @@ Note: All parts printed out of PLA have 30% gyroid infill with 2mm borders and o
 |13|3M Nuts and Bolts|16|$12.49|
 |14|2M Nuts and Bolts|20|$9.99|
 |15|5M bearings|6|$9.99|
-| | |Total|$455.28|
+| | |Total|$455.63|

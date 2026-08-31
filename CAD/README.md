@@ -14,7 +14,3 @@ Original CAD files are contained within this folder. The CAD assembly is located
 Renders of every part, generated from these files, are in
 [`../Documentation/renders/`](../Documentation/renders); the print set and the
 finger variants are laid out side by side there at a common scale.
-
-Note: `Base Top.stl` and `Base Bottom.stl` are currently identical files — the
-plate with the printed OpenRB-150 standoffs. See the note in the
-[top-level README](../README.md#build-one).
