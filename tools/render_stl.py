@@ -260,10 +260,12 @@ def shade(fb: Framebuffer, world_per_px: float, albedo: np.ndarray = ALBEDO) -> 
 # --------------------------------------------------------------------- parts
 
 # (file, label, how many per gripper[, view]) — the V2 build.  A part may name
-# its own camera angle: the base plate's printed OpenRB-150 standoffs are on its
-# reverse face, and the default three-quarter view hides the whole point of it.
+# its own camera angle: the bottom plate's printed OpenRB-150 standoffs are on its
+# reverse face, and the default three-quarter view hides the one feature that
+# tells the two plates apart.
 PRINT_SET = [
-    ("Base Top.stl", "Base plate", 2, (218.0, 26.0)),
+    ("Top Base.stl", "Top base", 1),
+    ("Bottom Base.stl", "Bottom base", 1, (218.0, 26.0)),
     ("Crank.stl", "Servo crank", 2),
     ("Rocker.stl", "Servo rocker", 2),
     ("Finger V4 - covered.stl", "Finger (V4)", 2),
